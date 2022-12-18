@@ -1,5 +1,8 @@
 <!-- Write a readme file -->
-# tiny-url-generator
+# tiny-url-generator [![npm package][npm-badge]][npm]
+
+[npm-badge]: https://img.shields.io/npm/v/tiny-url-generator.svg?style=flat-square
+[npm]: https://www.npmjs.com/package/tiny-url-generator
 
 A simple URL shortener written in node.js using [srtn.ga](https://srtn.ga/) as the API. 
 
