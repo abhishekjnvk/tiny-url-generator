@@ -1,8 +1,8 @@
 const ls = require("./index");
 
 ls.generate({
-  url: "https://www.google.com",
-  title: "Google",
+  url: "https://piedevelopers.com",
+  title: "Pie Developers",
   expiry: 0,
   analytics_password: "password",
 })

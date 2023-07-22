@@ -1,5 +1,5 @@
 const http = require("node:https");
-const HOSTNAME = "srtn.ga";
+const HOSTNAME = "tiny.piedevelopers.com";
 const PORT = 443;
 const PATHNAME = "/API/Shorten";
 
