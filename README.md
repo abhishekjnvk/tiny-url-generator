@@ -38,8 +38,8 @@ ls.generate({
   "data": {
     "link": "https://tiny.piedevelopers.com/go/YnLg9Q",
     "title": "PieDeveloper",
-    "timestamp": 1671390933,
-    "expiry": 1671403277,
+    "timestamp": 1690042585,
+    "expiry": 0,
     "isAnalyticsEnabled": 0
   }
 }
